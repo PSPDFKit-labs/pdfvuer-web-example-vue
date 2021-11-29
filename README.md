@@ -1,5 +1,7 @@
 # pdfvuer-demo
 
+Demo application for `pdfvuer` library. It uses Vue 3.
+
 ## Project setup
 ```
 npm install
