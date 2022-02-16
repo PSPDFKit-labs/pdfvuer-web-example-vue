@@ -1,5 +1,7 @@
 # pdfvuer-demo
 
+### Check out the related [blog post](https://pspdfkit.com/blog/2021/how-to-build-a-vuejs-pdf-viewer-with-pdfjs/)!
+
 Demo application for `pdfvuer` library. It uses Vue 3.
 
 ## Project setup
